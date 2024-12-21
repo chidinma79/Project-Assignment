@@ -1,3 +1,7 @@
 # Project-Assignment
-![image](https://github.com/user-attachments/assets/6b734d85-e4c0-48fd-9c8e-b1768690ad3d)
+Step 1
+I created a static IP address 16.171.217.169 and associated it with my EC2 instance
+
+![image](https://github.com/user-attachments/assets/5f396329-b88a-430f-8344-9469b4ce44bf)
+
 
